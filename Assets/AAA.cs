@@ -8,5 +8,6 @@ public class AAA : MonoBehaviour
     void Start()
     {
         print("111");
+        print("yoyo,Ð¡¶«Î÷");
     }
 }
